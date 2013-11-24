@@ -1,0 +1,13 @@
+.game {
+  display: none;
+}
+.game canvas {
+  border: 1px solid black;
+  background-image: url(../images/background.jpg);
+  background-position: right top;
+}
+.game button {
+  width: 200px;
+  height: 50px;
+  vertical-align: top;
+}
